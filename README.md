@@ -6,11 +6,13 @@
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drexhacker&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drexhacker)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drexhacker)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!---
 drexhacker/drexhacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
