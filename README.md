@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2023
+> 🏆 135 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -18,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-🌆 Daytime                298 commits         ███████████░░░░░░░░░░░░░░   45.22 % 
-🌃 Evening                208 commits         ████████░░░░░░░░░░░░░░░░░   31.56 % 
-🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+🌞 Morning                114 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+🌆 Daytime                300 commits         ███████████░░░░░░░░░░░░░░   45.39 % 
+🌃 Evening                208 commits         ████████░░░░░░░░░░░░░░░░░   31.47 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Thursday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Friday                   142 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Tuesday                  143 commits         █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Thursday                 68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Friday                   142 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Saturday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Sunday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 ```
 
 
@@ -77,7 +77,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2023 13:03:51 UTC
+ Last Updated on 13/11/2023 13:37:46 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
