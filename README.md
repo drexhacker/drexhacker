@@ -42,16 +42,19 @@ Sunday                   54 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     30 mins             ██████████████░░░░░░░░░░░   55.54 % 
+Dart                     24 mins             ███████████░░░░░░░░░░░░░░   43.79 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wiretun                  55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +74,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 14:13:44 UTC
+ Last Updated on 04/01/2024 14:14:10 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
