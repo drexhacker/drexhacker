@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -42,25 +42,25 @@ Sunday                   54 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Dart                     22 hrs 53 mins      ███████████████░░░░░░░░░░   58.03 % 
+Dart                     23 hrs 14 mins      ███████████████░░░░░░░░░░   58.90 % 
 Python                   8 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
 Other                    2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-YAML                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+YAML                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 Bash                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
 VS Code                  39 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tleocd_dash              8 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+tv                       14 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   36.32 % 
 jemcrush                 6 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-tv                       6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 banking_backup           6 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 tleocd                   6 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+fintech                  4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 
 💻 Operating System: 
-Linux                    22 hrs 21 mins      ██████████████░░░░░░░░░░░   56.70 % 
-Windows                  17 hrs 4 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
+Linux                    22 hrs 22 mins      ██████████████░░░░░░░░░░░   56.71 % 
+Windows                  17 hrs 4 mins       ███████████░░░░░░░░░░░░░░   43.29 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +80,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2024 14:14:44 UTC
+ Last Updated on 18/01/2024 14:14:38 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
