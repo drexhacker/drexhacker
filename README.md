@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -42,17 +42,22 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Dart                     22 mins             █████████████████░░░░░░░░   66.85 % 
-YAML                     11 mins             ████████░░░░░░░░░░░░░░░░░   33.15 % 
+TypeScript               3 hrs 20 mins       ███████████████████░░░░░░   74.62 % 
+Dart                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tv                       33 mins             █████████████████████████   100.00 % 
+my-remix-app             3 hrs 24 mins       ███████████████████░░░░░░   76.12 % 
+tv                       48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+cybroid-api              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+Linux                    4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +77,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2024 14:13:31 UTC
+ Last Updated on 03/02/2024 14:11:53 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
