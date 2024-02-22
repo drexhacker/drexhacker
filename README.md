@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-441%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -42,18 +42,17 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-HTML                     8 hrs 24 mins       ████████████████████████░   97.07 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+HTML                     7 hrs 38 mins       ████████████████████████░   97.76 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Calleb                   8 hrs 37 mins       █████████████████████████   99.72 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Calleb                   7 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +72,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 14:16:42 UTC
+ Last Updated on 22/02/2024 14:19:36 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
