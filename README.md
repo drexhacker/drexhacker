@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -7,7 +7,7 @@
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 5 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -42,28 +42,26 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-HTML                     1 hr 15 mins        ████████████████████████░   96.57 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+HTML                     44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Calleb                   1 hr 3 mins         ████████████████████░░░░░   81.08 % 
-firstWebsite             14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+firstWebsite             44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
+Linux                    44 mins             █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Dart** 
 
 ```text
-Dart                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Dart                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 
 
@@ -73,7 +71,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2024 14:17:39 UTC
+ Last Updated on 02/03/2024 14:16:59 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
