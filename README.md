@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -42,18 +40,18 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-HTML                     2 hrs 56 mins       █████████████████████░░░░   85.80 % 
-CSS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+HTML                     1 hr 8 mins         ███████████████████░░░░░░   76.42 % 
+CSS                      21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-firstWebsite             1 hr 58 mins        ██████████████░░░░░░░░░░░   57.82 % 
-hello_world              1 hr 26 mins        ███████████░░░░░░░░░░░░░░   42.18 % 
+firstWebsite             50 mins             ██████████████░░░░░░░░░░░   55.82 % 
+hello_world              39 mins             ███████████░░░░░░░░░░░░░░   44.18 % 
 
 💻 Operating System: 
-Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -73,7 +71,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 14:20:05 UTC
+ Last Updated on 29/03/2024 14:16:56 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
