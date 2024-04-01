@@ -40,18 +40,18 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-HTML                     1 hr 3 mins         █████████████████████████   98.13 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+HTML                     1 hr 2 mins         █████████████████████████   98.10 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hello_world              35 mins             ██████████████░░░░░░░░░░░   54.62 % 
-firstWebsite             29 mins             ███████████░░░░░░░░░░░░░░   45.38 % 
+hello_world              35 mins             ██████████████░░░░░░░░░░░   55.39 % 
+firstWebsite             28 mins             ███████████░░░░░░░░░░░░░░   44.61 % 
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -71,7 +71,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2024 14:16:33 UTC
+ Last Updated on 01/04/2024 14:18:10 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
