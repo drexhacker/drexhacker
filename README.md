@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-695%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
@@ -42,21 +42,22 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   12 hrs 29 mins      ███████████████████████░░   91.65 % 
-Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   14 hrs 8 mins       ██████████████████████░░░   86.91 % 
+Bash                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-poster                   13 hrs 17 mins      ████████████████████████░   97.64 % 
-ereader-api              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-cybroid                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+poster                   15 hrs 51 mins      ████████████████████████░   97.50 % 
+ereader-api              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+cybroid                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Linux                    13 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -76,7 +77,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 14:19:19 UTC
+ Last Updated on 24/06/2024 14:21:55 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
