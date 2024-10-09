@@ -7,7 +7,7 @@
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 316 Contributions in the Year 2024
+> 🏆 317 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Dart                     15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
@@ -71,7 +71,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2024 14:25:24 UTC
+ Last Updated on 09/10/2024 14:22:44 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
