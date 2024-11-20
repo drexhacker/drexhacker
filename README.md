@@ -62,11 +62,11 @@ Linux                    6 hrs 41 mins       ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Dart                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
@@ -76,7 +76,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2024 14:36:14 UTC
+ Last Updated on 20/11/2024 14:28:19 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
