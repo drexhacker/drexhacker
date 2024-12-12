@@ -42,23 +42,16 @@ Sunday                   177 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-HTML                     4 hrs 58 mins       ███████████████████░░░░░░   77.71 % 
-Python                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hse_web                  5 hrs 57 mins       ███████████████████████░░   92.92 % 
-hse_new                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-ecofem                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-blueweb                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -78,7 +71,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 11/12/2024 14:29:26 UTC
+ Last Updated on 12/12/2024 14:31:24 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
