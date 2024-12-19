@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-922%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
@@ -42,19 +42,21 @@ Sunday                   159 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   1 hr 50 mins        ██████████████████░░░░░░░   72.28 % 
-HTML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Bash                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Python                   2 hrs 7 mins        ███████████████░░░░░░░░░░   61.46 % 
+TypeScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+TSConfig                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hse_web                  1 hr 51 mins        ██████████████████░░░░░░░   73.12 % 
-hsecompass               41 mins             ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+hse_web                  2 hrs 46 mins       ████████████████████░░░░░   80.21 % 
+hsecompass               41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 
 💻 Operating System: 
-Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -74,7 +76,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 14:29:36 UTC
+ Last Updated on 19/12/2024 14:29:43 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
