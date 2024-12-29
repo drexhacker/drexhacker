@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-931%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-932%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
@@ -42,21 +42,21 @@ Sunday                   159 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               6 hrs 42 mins       ████████████████████░░░░░   80.98 % 
-Python                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-HTML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+TypeScript               7 hrs 25 mins       █████████████████████░░░░   83.61 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hse_web                  8 hrs 14 mins       █████████████████████████   99.57 % 
-hsecompass               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+hse_web                  8 hrs 50 mins       █████████████████████████   99.60 % 
+hsecompass               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Linux                    8 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -76,7 +76,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 14:25:35 UTC
+ Last Updated on 29/12/2024 14:26:56 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
