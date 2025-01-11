@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2015%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -40,20 +42,16 @@ Sunday                   183 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   51 mins             ████████████░░░░░░░░░░░░░   48.07 % 
-HTML                     44 mins             ███████████░░░░░░░░░░░░░░   42.10 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-INI                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Nushell                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-broxapps                 1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -73,7 +71,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2025 14:29:48 UTC
+ Last Updated on 11/01/2025 14:25:41 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
