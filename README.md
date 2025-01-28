@@ -42,19 +42,16 @@ Sunday                   248 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   47 mins             ████████████████████░░░░░   78.42 % 
-Text                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bible_api                1 hr                █████████████████████████   100.00 % 
+bible_api                11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr                █████████████████████████   100.00 % 
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -74,7 +71,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2025 14:29:20 UTC
+ Last Updated on 28/01/2025 14:28:04 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
