@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
@@ -42,18 +42,22 @@ Sunday                   274 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Python                   13 mins             █████████████████░░░░░░░░   68.01 % 
-JSON                     5 mins              ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Python                   1 hr 41 mins        ████████████████████░░░░░   79.45 % 
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cybroid-new              19 mins             █████████████████████████   100.00 % 
+hosting_backend          1 hr 46 mins        █████████████████████░░░░   83.34 % 
+cybroid-new              19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+vpn_api                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -73,7 +77,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 14:23:44 UTC
+ Last Updated on 22/02/2025 14:24:44 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
