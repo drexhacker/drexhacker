@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%209%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -15,45 +13,6 @@
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1605 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-🌆 Daytime                3084 commits        ██████████████░░░░░░░░░░░   56.30 % 
-🌃 Evening                324 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-🌙 Night                  465 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   728 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Wednesday                581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Thursday                 837 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Friday                   1416 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-Saturday                 876 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Sunday                   409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Kampala
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -71,7 +30,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 14:33:45 UTC
+ Last Updated on 20/09/2025 14:29:12 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
