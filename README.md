@@ -7,13 +7,13 @@
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 460 Contributions in the Year 2025
+> 🏆 461 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 31 Public Repositories 
  > 
-> 🔑 30 Private Repositories 
+> 🔑 31 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     16 repos            ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Dart                     17 repos            ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
@@ -71,7 +71,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 14:26:44 UTC
+ Last Updated on 16/12/2025 14:25:24 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
