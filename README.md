@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     17 repos            ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Dart                     17 repos            ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
@@ -71,7 +71,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 14:19:39 UTC
+ Last Updated on 22/12/2025 14:23:14 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
