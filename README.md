@@ -63,11 +63,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Dart                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Dart                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
@@ -77,7 +77,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/drexhacker/drexhacker/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 14:57:47 UTC
+ Last Updated on 12/08/2026 14:55:59 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://www.buymeacoffee.com/drexsoftorg" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
